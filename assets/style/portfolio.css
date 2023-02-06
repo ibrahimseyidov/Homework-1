@@ -1,0 +1,110 @@
+.portfolio-section {
+    float: left;
+    width: 65%;
+    background-color: #fff;
+    padding: 30px 25px;
+    border: 1px #ccc solid;
+}
+
+.portfolio-section h2 {
+    color: #4aaaa5;
+    font-weight: 600;
+    font-size: 32px;
+    border-bottom: #ddd 3px solid;
+    padding-bottom: 30px;
+}
+
+.main-contain {
+    width: 977px;
+    margin: 40px auto;
+}
+
+.img-contain {
+    position: relative;
+    width: 274px;
+    margin: 40px 15px 20px 0;
+    float: left;
+}
+
+.img-contain img {
+    width: 274px;
+    opacity: 0.8;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.img-contain img:hover {
+    opacity: 0.6;
+}
+
+.img-contain p { 
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    padding: 18px 0;
+    text-align: center;
+}
+
+.img-contain-2 {
+    position: relative;
+    width: 274px;
+    margin: 40px 0px 20px 0;
+    float: right;
+}
+
+.img-contain-2 img {
+    width: 274px;
+    opacity: 0.8;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.img-contain-2 img:hover {
+    opacity: 0.6;
+}
+
+.img-contain-2 p { 
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    padding: 18px 0;
+    text-align: center;
+}
+
+.img-contain-4 {
+    position: relative;
+    width: 274px;
+    margin: 40px 0 20px 0;
+    float: right;
+}
+
+.img-contain-4 img {
+    width: 274px;
+    opacity: 0.8;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.img-contain-4 img:hover {
+    opacity: 0.6;
+}
+
+.img-contain-4 p { 
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    padding: 18px 0;
+    text-align: center;
+}
